@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Amrutha<br><br>- 🔬 **Applied AI Engineer** , Built an agentic AIOps platform in LangGraph that automatically detects anomalies across DAG<br>- 🎓 **MS in Data Science**, George Washington University (2026) · B.E. in Computer Science<br>- 💼 **3 years at Deloitte Consulting** driving data-led decisions for enterprise clients as a Data Analyst / Data Scientist<br>- 🤖 **Shipping production-grade LLM systems**: agentic workflows (LangChain/LangGraph), RAG pipelines, and custom fine-tuning<br>- 🛠️ **Stack**: Python · SQL · PySpark · Databricks · dbt · MLflow · AWS · GCP
+## 👋 Hi, I'm Amrutha<br><br> 🔬 **Applied AI Engineer** , Built an agentic AIOps platform in LangGraph that automatically detects anomalies across DAG<br> 🎓 **MS in Data Science**, George Washington University (2026) · B.E. in Computer Science<br> 💼 **3 years at Deloitte Consulting** driving data-led decisions for enterprise clients as a Data Analyst / Data Scientist<br> 🤖 **Shipping production-grade LLM systems**: agentic workflows (LangChain/LangGraph), RAG pipelines, and custom fine-tuning<br>- 🛠️ **Stack**: Python · SQL · PySpark · Databricks · dbt · MLflow · AWS · GCP
 
 
 ## 🌐 Socials:
